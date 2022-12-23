@@ -1,8 +1,8 @@
 <?php 
 // Website Name
 $webName = "Hanime";
-// Website URL
-$webUrl = "https://hanime.biz.id";
+// Website UR
+$webUrl = "https://hanime-flameindark-team.vercel.app";
 // Website URL
 $webDomain = "hanime.biz.id";
 //Google Webmaster
